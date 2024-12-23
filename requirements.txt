@@ -5,3 +5,20 @@ numpy
 pandas
 scikit-learn
 gensim
+transformers
+datasets
+openai
+dotenv
+# Project1
+diffusers
+transformers
+accelerate
+torch
+matplotlib
+# Project2
+transformers[sentencepiece]
+datasets
+sacrebleu
+rouge_score
+py7zr
+evaluate
