@@ -7,8 +7,6 @@ scikit-learn
 gensim
 transformers
 datasets
-openai
-dotenv
 # Project1
 diffusers
 transformers
@@ -22,3 +20,7 @@ sacrebleu
 rouge_score
 py7zr
 evaluate
+
+aiogram==2.25.1
+openai==0.28
+python-dotenv
