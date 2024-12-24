@@ -20,7 +20,9 @@ sacrebleu
 rouge_score
 py7zr
 evaluate
-
+#Telegram
 aiogram==2.25.1
 openai==0.28
 python-dotenv
+#Image Dalle
+flask
