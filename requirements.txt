@@ -26,3 +26,11 @@ openai==0.28
 python-dotenv
 #Image Dalle
 flask
+langchain
+llama-index
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain_community
