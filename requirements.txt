@@ -34,3 +34,7 @@ arxiv
 pymupdf
 wikipedia
 langchain_community
+huggingface_hub
+numexpr
+bitsandbytes
+sentence-transformers
