@@ -42,3 +42,4 @@ faiss-cpu
 chromadb==0.4.15
 unstructured
 unstructured[pdf]
+einops
